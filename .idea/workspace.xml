@@ -2,101 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5f9e628-a7ed-4ab5-be98-486cae7ccdcc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AngularJSLaravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AngularJSLaravel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/.env.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/.styleci.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Console/Kernel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Exceptions/Handler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Http/Controllers/Controller.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Http/Kernel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Http/Middleware/Authenticate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Models/User.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Providers/AppServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Providers/AuthServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Providers/EventServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app/Providers/RouteServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/artisan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/bootstrap/app.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/bootstrap/cache/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/app.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/broadcasting.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/cors.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/database.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/filesystems.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/hashing.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/logging.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/mail.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/queue.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/services.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/session.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/config/view.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/database/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/database/factories/UserFactory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/database/seeders/DatabaseSeeder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/phpunit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/public/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/public/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/public/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/public/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/public/js/home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/public/partials/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/public/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/resources/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/resources/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/resources/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/resources/lang/en/auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/resources/lang/en/pagination.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/resources/lang/en/passwords.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/resources/lang/en/validation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/routes/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/routes/channels.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/routes/console.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/routes/web.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/storage/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/storage/app/public/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/storage/framework/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/storage/framework/cache/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/storage/framework/cache/data/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/storage/framework/sessions/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/storage/framework/testing/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/storage/framework/views/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/storage/logs/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/CreatesApplication.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/Feature/ExampleTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/TestCase.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/Unit/ExampleTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/webpack.mix.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -275,7 +182,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611992342872</updated>
-      <workItem from="1611992344639" duration="6262000" />
+      <workItem from="1611992344639" duration="7763000" />
     </task>
     <servers />
   </component>
